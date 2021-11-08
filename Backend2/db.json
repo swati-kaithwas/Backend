@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Mamburger",
+      "price": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "price": 2.5,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "sdsd",
+      "price": "1212"
+    },
+    {
+      "id": 5,
+      "name": "dary",
+      "price": "250"
+    },
+    {
+      "id": 6,
+      "name": "food",
+      "price": "123"
+    },
+    {
+      "id": 7,
+      "name": "good-day",
+      "price": "10"
+    },
+    {
+      "id": "8",
+      "name": "rice",
+      "price": "25"
+    },
+    {
+      "id": "9",
+      "name": "sprite",
+      "price": "20"
+    },
+    {
+      "id": "10",
+      "name": "cool",
+      "price": "20"
+    }
+  ]
+} 
